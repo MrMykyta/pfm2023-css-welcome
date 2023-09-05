@@ -1,15 +1,11 @@
-.red{
-    color: red;
+body{
+    background-color: bisque;
 }
-
-.green{
-    color: green;
-}
-
-.blue{
-    color: blue;
-}
-
-#violet{
-    color: violet;
+div{
+    width: 800px;
+    display: inline-block;
+    background-color: grey;
+    padding: 50px;
+    margin: 10px;
+    border: 2px solid black;
 }
