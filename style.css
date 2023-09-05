@@ -1,11 +1,15 @@
-p{
-    color: violet;
-}
-
 .red{
     color: red;
 }
 
-#green{
+.green{
     color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+#violet{
+    color: violet;
 }
